@@ -1,0 +1,13 @@
+[2026-04-14T18:51:33.328Z] Starting dev server with command: pnpm run dev
+[2026-04-14T18:51:34.302Z] 
+[2026-04-14T18:51:34.303Z] > portfolio-react@1.0.0 dev /home/ubuntu/portfolio-react
+[2026-04-14T18:51:34.303Z] > vite --host
+[2026-04-14T18:51:34.303Z] 
+[2026-04-14T18:51:34.993Z] 
+[2026-04-14T18:51:34.994Z] VITE v7.1.9  ready in 646 ms
+[2026-04-14T18:51:34.994Z] 
+[2026-04-14T18:51:34.995Z] ➜  Local:   http://localhost:3000/
+[2026-04-14T18:51:34.996Z] ➜  Network: http://169.254.0.21:3000/
+[2026-04-14T18:52:44.414Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-04-14T18:52:48.209Z] 2:52:48 PM [vite] (client) page reload index.html
+[2026-04-14T18:53:00.599Z] 2:53:00 PM [vite] (client) page reload index.html
